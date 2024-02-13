@@ -39,7 +39,7 @@ This data served as the foundation for exploring patterns and predictors of chur
 
 
 ## Methodology.
-   ** Churn** is our independent variable.
+   **Churn** is our independent variable.
 
 **Target variable insights** :
 These are the main factors to be investigated in the study:
